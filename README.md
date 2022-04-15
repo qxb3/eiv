@@ -1,9 +1,9 @@
 # eiv (eruda in via)
 
 A simple script to get
-<a href="https://github.com/liriliri/eruda" target="_blank">eruda</a>
+<a href="https://github.com/liriliri/eruda">eruda</a>
 working with 
-<a href="https://github.com/tuyafeng/Via" target="_blank">via browser</a>
+<a href="https://github.com/tuyafeng/Via">via browser</a>
 with an easy to use plugin loader
 
 # How to use?
@@ -17,9 +17,9 @@ with an easy to use plugin loader
 
 <ul>
   <li>
-    Download the <strong>script.js</strong> on</li>
-<a href="https://github.com/qxb3/eiv/releases/tag/version1" target="_blank">releases
-  </a>
+    Download the <strong>script.js</strong> on
+    <a href="https://github.com/qxb3/eiv/releases/tag/version1">releases</a>
+  </li>
 
   <li>
     Copy the script you just downloaded then open via browser and go to<br>
@@ -31,7 +31,7 @@ with an easy to use plugin loader
 ## Loading a plugin
 
 Please visit
-<a href="https://github.com/liriliri/eruda#plugins" target="_blank">plugins list</a>
+<a href="https://github.com/liriliri/eruda#plugins">plugins list</a>
 to see the available plugins<br> and just add the plugins you want inside the **loadPlugins()** function
 ```js
 ...
