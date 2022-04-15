@@ -39,6 +39,15 @@ loadPlugins(["fps", "code", "dom"])
 ...
 ```
 
+# Previews
+
+<p>
+  <img src="/previews/console.png" width="100" />
+  <img src="/previews/dom.png" width="100" />
+  <img src="/previews/fps.png" width="100" />
+</p>
+
+
 # Contributing
 
 Feel free the make changes to the code and make a pr :>
