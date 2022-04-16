@@ -18,7 +18,7 @@ with an easy to use plugin loader
 <ul>
   <li>
     Download the <strong>script.js</strong> on
-    <a href="https://github.com/qxb3/eiv/releases/tag/version1">releases</a>
+    <a href="https://github.com/qxb3/eiv/releases">releases</a>
   </li>
 
   <li>
