@@ -17,7 +17,12 @@ with an easy to use plugin loader
 
 <ul>
   <li>
-    Download the <strong>script.js</strong> on
+    First of all download via browser
+    <a href="https://play.google.com/store/apps/details?id=mark.via.gp&hl=en&gl=US&referrer=utm_source=google&utm_medium=organic&utm_term=google+play+store+via+browser&pcampaignid=APPU_1_u8trYs-sE_HQ2roP_q6HiAQ">here</a>
+  </li>
+
+  <li>
+    Then download the <strong>script.js</strong> on
     <a href="https://github.com/qxb3/eiv/releases">releases</a>
   </li>
 
