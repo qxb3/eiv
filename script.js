@@ -4,24 +4,9 @@
 // @namespace    https://github.com/qxb3/eiv
 // @version      1.0.1
 // @run-at       document-start
-// @match        *localhost*
-// @match        *127.0.0.1*
-// @match        about:blank
-// @match        *.netlify.app*
-// @match        *.vercel.app*
-// @match        *.ngrok.io*
-// @match        *.is-a.dev*
-// @match        *.tk*
+// @match        *
 // @grant        none
 // ==/UserScript==
-
-/**
- * A simple script to get https://github.com/liriliri/eruda working with via browser with an easy to use plugin loader.
- *
- * Date of creation: April 15, 2022
- * @author qxb3 https://github.com/qxb3
- * @license MIT
- */
 
 (function() {
   const cdnUrl = '//cdn.jsdelivr.net/npm/'

@@ -1,0 +1,10 @@
+{
+  "name": "eiv",
+  "description": "A simple script to get eruda working with via browser.",
+  "version": "1.0.1",
+  "repository": "https://github.com/qxb3/eiv",
+  "author": "qxb3 <qxbthree@gmail.com>",
+  "license": "MIT",
+  "main": "script.js",
+  "scripts": {}
+}
